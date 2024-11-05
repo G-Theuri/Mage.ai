@@ -1,0 +1,1 @@
+{"MatchID": "int64", "MatchCustomID": "str", "Round": "int64", "Date": "str", "StartTime": "str", "SeasonID": "int64", "MatchStatus": "str", "HomeScoreFT": "str", "AwayScoreFT": "str", "Tournament": "str", "TeamType": "str", "TeamID": "int64", "TeamName": "str", "NameCode": "str", "PrimaryColor": "str", "SecondaryColor": "str", "SeasonName": "str", "TournamentID": "int64"}
